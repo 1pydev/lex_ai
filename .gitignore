@@ -1,0 +1,17 @@
+# Maxfiy ma'lumotlar
+.env
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Loglar va vaqtinchalik fayllar
+*.log
+*.tmp
