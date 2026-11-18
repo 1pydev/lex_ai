@@ -1,1 +1,1 @@
-# lex_ai
+nimadurlar bor?
